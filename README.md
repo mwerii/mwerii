@@ -1,8 +1,8 @@
 - Hi, I’m @mwerii
-- I’m interested in full-stack web development, open-source projects, and solving real-world problems with tech
-- I’m currently learning advanced concepts in React, Django, and PHP while exploring DevOps and RESTful APIs.
-- I’m looking to collaborate on web applications, tech-for-good projects, and beginner-friendly open-source initiatives
--📫 How to reach me: waltermweri@gmail.com
+- I’m interested in back-end web development, open-source projects, database administration and AI intergration.
+- I’m currently learning advanced concepts in  Djang and PHP while exploring DevOps and RESTful APIs.
+- Looking to collaborate on web applications,problem-solving projects, and open-source initiatives
+-How to reach me: waltermweri@gmail.com
 
 
 <!---
