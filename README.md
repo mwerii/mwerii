@@ -1,6 +1,6 @@
 - Hi, I’m @mwerii
 - I’m interested in back-end web development, open-source projects, database administration and AI intergration.
-- I’m currently learning advanced concepts in  Djang and PHP while exploring DevOps and RESTful APIs.
+- I’m currently learning advanced concepts in  Django and PHP while exploring DevOps and RESTful APIs.
 - Looking to collaborate on web applications,problem-solving projects, and open-source initiatives
 -How to reach me: waltermweri@gmail.com
 
